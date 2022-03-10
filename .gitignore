@@ -31,7 +31,7 @@ build/
 
 ### VS Code ###
 .vscode/
-.idea 
+.idea
 
 # User-specific stuff
 .idea/**/workspace.xml
